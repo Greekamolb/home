@@ -1,0 +1,43 @@
+.center
+{
+	text-align: center;
+	color: white;
+	font: "comic sans"
+}
+	
+p
+	{
+	color: yellow;
+	font-family: "Comic Sans", cursive;
+	}
+h1
+	
+	{
+	color: yellow;
+	text-align: center;
+	font-family: "Comic Sans", cursive;
+	font-size: 50pt;
+	
+	}
+
+body
+	
+	{
+	color: yellow;
+	font-family: "comic sans", cursive;
+	background-color: black;
+	}
+
+.ul 
+	{
+    	list-style-type: none;
+   	margin: 0;
+   	padding: 0;
+	}
+img
+	{
+	border-color : tomato; 
+	border-width : medium;
+	border-style : solid;
+	}
+
